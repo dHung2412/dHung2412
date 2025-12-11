@@ -32,16 +32,6 @@ Here is what I focus on:
 
 <br>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dHung2412&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dHung2412&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages" />
-</div>
-
-<br>
-
 ### 🤝 Connect with Me
 
 <div align="center">
