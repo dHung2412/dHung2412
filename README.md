@@ -2,9 +2,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=220&section=header&text=Hello,%20I'm%20Hung&fontSize=70&fontAlign=35&animation=fadeIn&desc=Data%20Engineer%20%40%20Vietnam&descAlign=80&descSize=20" width="100%"/>
 </div>
 
-### 👋 About Me
+### 🌐 Let's Connect <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <a href="https://www.linkedin.com/in/h%C6%B0ng-%C4%91%E1%BA%B7ng-09423a352/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:danghung241204@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-I am a **Data Engineer** from Vietnam 🇻🇳. I focus on **architecting** data foundations rather than just writing queries.
+## 🧠 About Me <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<blockquote align="center">
+  <b><i>“If there’s one thing to know about me: I build data systems that turn noise into clarity - and I’ll outwork anyone to get there.”</i></b>
+</blockquote>
 
 Here is what I focus on:
 
