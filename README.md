@@ -81,4 +81,7 @@
   <a href="mailto:danghung241204@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
+  <a href="https://dwgh12.substack.com">
+    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=readme&logoColor=white" target="_blank" />
+  </a>
 </div>
