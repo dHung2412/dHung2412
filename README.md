@@ -4,7 +4,7 @@
 
 ## About Me <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <blockquote align="center">
-  <b><i>“I am a Data Engineer from Vietnam 🇻🇳 — I don’t just write queries; I architect data foundations that systems can scale on.”</i></b>
+  <b><i>“The first Matrix I designed was quite naturally perfect, it was a work of art, flawless, sublime; a triumph equaled only by its monumental failure.”</i></b>
 </blockquote>
 
 ### Focus on <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
